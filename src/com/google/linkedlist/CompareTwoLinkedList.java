@@ -1,5 +1,6 @@
 package com.google.linkedlist;
 
+//@author "Abhishek Gwal"
 //https://www.hackerrank.com/challenges/compare-two-linked-lists
 
 public class CompareTwoLinkedList {
