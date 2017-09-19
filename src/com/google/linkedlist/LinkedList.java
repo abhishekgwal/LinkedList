@@ -48,10 +48,6 @@ public class LinkedList {
 			n = n.next;
 		}
 	}
-	
-	public void reverseList(){
-		
-	}
 
 	public static void main(String[] args) {
 
